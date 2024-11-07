@@ -1,13 +1,16 @@
-# GitHub Actions / Template
+# Tax Complexity in Indonesia
 
-A project of the [Open Science Data Center][c02]
+Dear Reader,
 
-> Template repository for creating a data dashboard / website using Quarto.
+in this repository you will find
 
-## Project Funding
+1) the results of the Tax Complexity Survey in Indonesia.
+2) the related questionnaire in english.
 
-Funded by the [Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)][dfg]: [Project-ID 403041268 – TRR 266 Accounting for Transparency][trr_266].
+Keep in mind that the survey has been conducted in english and indonesian language.
 
-[trr_266]: https://www.accounting-for-transparency.de
-[dfg]: https://www.dfg.de
-[c02]: https://www.accounting-for-transparency.de/project/open-science-data-center/
+Make sure to familiarise yourself with the general information provided in the excel spreadsheet, especially the licence (Creative Commons Licence CC BY-NC-SA 4.0).
+
+For more information see https://www.accounting-for-transparency.de/publications/no-151-determinants-of-tax-complexity-in-tax-regulations-and-tax-procedures-evidence-from-a-developing-country/.
+
+The Authors
